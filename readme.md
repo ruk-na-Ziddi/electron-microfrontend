@@ -1,10 +1,10 @@
 # The electron app renders the root app, root app has two buttons to render angular / react app.
 
-## Steps to start the electron app
+## Steps to start the electron app :
 
-### Make relavant app directrory as working directory before startng. eg- for angualr-widget `cd angular-widget` then run relavant scripts.
+### Make relavant app's directrory as working directory before starting. eg- for angualr-widget `cd angular-widget` then run relavant scripts.
 
-### angualr-widget (angualr app)
+### angular-widget (angular app)
 - `npm install`
 - `npm run build`
 - `npm start`
